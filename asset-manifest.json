@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.9eaf052b.css",
+    "main.js": "/react-portfolio/static/js/main.d385d26a.js",
+    "static/media/clothing_shop.gif": "/react-portfolio/static/media/clothing_shop.8d009e34c5ecae449380.gif",
+    "static/media/Bar-Hop.gif": "/react-portfolio/static/media/Bar-Hop.a511f34161ab3985abc6.gif",
+    "static/media/shopp.gif": "/react-portfolio/static/media/shopp.91996b9cd018f9ed3e5e.gif",
+    "static/media/Lingua.gif": "/react-portfolio/static/media/Lingua.83c2a0ea47345a27435b.gif",
+    "static/media/tech_blog.gif": "/react-portfolio/static/media/tech_blog.fcc2e5e9444240683d56.gif",
+    "static/media/weather_dashboard.gif": "/react-portfolio/static/media/weather_dashboard.a81df84f4ef63af3d8a4.gif",
+    "static/media/note_taker.gif": "/react-portfolio/static/media/note_taker.dba917cce64cd0a01666.gif",
+    "static/media/budget_tracker.gif": "/react-portfolio/static/media/budget_tracker.6a631babaee8960a010c.gif",
+    "static/media/homebrew.gif": "/react-portfolio/static/media/homebrew.6c63356cb2db9ea68a36.gif",
+    "static/media/vecteezy_404-error-illustration-maintenance-system-technology_7814361.jpg": "/react-portfolio/static/media/vecteezy_404-error-illustration-maintenance-system-technology_7814361.0527f1854b9777395854.jpg",
+    "static/media/resume.pdf": "/react-portfolio/static/media/resume.13e2a858385ebbd27056.pdf",
+    "static/media/stepan.jpg": "/react-portfolio/static/media/stepan.0dd88e4a263be4f4abe8.jpg",
+    "static/media/subtle-prism.svg": "/react-portfolio/static/media/subtle-prism.aa429c5f8d2afd987d0b.svg",
+    "index.html": "/react-portfolio/index.html",
+    "main.9eaf052b.css.map": "/react-portfolio/static/css/main.9eaf052b.css.map",
+    "main.d385d26a.js.map": "/react-portfolio/static/js/main.d385d26a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9eaf052b.css",
+    "static/js/main.d385d26a.js"
+  ]
+}
