@@ -1,6 +1,6 @@
 {
-  "name": "stepan-react-portfolio",
-  "homepage": "https://elfsvet.github.io/stepan-react-portfolio",
+  "name": "react-portfolio",
+  "homepage": "https://elfsvet.github.io/react-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
