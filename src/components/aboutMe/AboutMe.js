@@ -1,7 +1,7 @@
 import React from 'react';
 import './AboutMe.css';
 import stepan from '../../images/stepan.jpg';
-
+// comment
 function AboutMe() {
   return (
     <div className='mainContainer'>
